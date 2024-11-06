@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .px-51 {
+      padding-left: 51%;
+      padding-right: 51%;
+    }
+  }
+
+
+  @layer utilities {
+    .ml-8p {
+      margin-left: 8%;
+    }
+    .ml-50p {
+      margin-left: 40%;
+    }
+  }
+  
+  
